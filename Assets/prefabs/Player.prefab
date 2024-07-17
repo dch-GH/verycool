@@ -1,0 +1,90 @@
+{
+  "RootObject": {
+    "__guid": "f5087686-ee82-4bea-94e5-5987f787802c",
+    "Flags": 0,
+    "Name": "player",
+    "Enabled": true,
+    "Components": [
+      {
+        "__type": "Rose.PlayerController",
+        "__guid": "f565a628-1c09-489e-8006-c47805746501",
+        "JumpForce": 1400,
+        "MaxSpeed": 500,
+        "MoveSpeed": 3000,
+        "Sprite": {
+          "_type": "component",
+          "component_id": "620bf662-de9a-409e-9e11-608cb9ecb4f5",
+          "go": "c53d47ce-2c38-4287-849b-2213386d3419",
+          "component_type": "SpriteComponent"
+        }
+      },
+      {
+        "__type": "Rose.CameraController",
+        "__guid": "4e5989b7-f02c-4b46-9506-5cc8cf75d09b",
+        "_offset": "-100,0,0"
+      },
+      {
+        "__type": "Sandbox.Rigidbody",
+        "__guid": "e2561bd1-6315-439b-819b-c514a0d85bce",
+        "AngularDamping": 0,
+        "Gravity": true,
+        "LinearDamping": 0,
+        "Locking": {
+          "X": true,
+          "Pitch": true,
+          "Yaw": true,
+          "Roll": true
+        },
+        "MassOverride": 5,
+        "MotionEnabled": true,
+        "RigidbodyFlags": "DisableCollisionSounds",
+        "StartAsleep": false
+      },
+      {
+        "__type": "Sandbox.CapsuleCollider",
+        "__guid": "fbab57c7-b298-4038-9610-5b9145133b59",
+        "End": "0,0,24.90002",
+        "IsTrigger": false,
+        "Radius": 9.500002,
+        "Start": "0,0,10.3",
+        "Static": false
+      }
+    ],
+    "Children": [
+      {
+        "__guid": "c53d47ce-2c38-4287-849b-2213386d3419",
+        "Flags": 0,
+        "Name": "Sprite",
+        "Rotation": "1,0,0,-0.00000004371139",
+        "Tags": "particles",
+        "Enabled": true,
+        "Components": [
+          {
+            "__type": "SpriteTools.SpriteComponent",
+            "__guid": "620bf662-de9a-409e-9e11-608cb9ecb4f5",
+            "__version": 1,
+            "BroadcastEvents": {
+              "attack": null
+            },
+            "CastShadows": "On",
+            "CreateAttachPoints": false,
+            "FlashTint": "0,0,0,0",
+            "PlaybackSpeed": 1,
+            "Sprite": "sprites/character.sprite",
+            "SpriteFlags": "None",
+            "StartingAnimationName": "idle",
+            "Tint": "1,1,1,1",
+            "UpDirection": "ZNegative"
+          }
+        ]
+      }
+    ],
+    "__variables": []
+  },
+  "ShowInMenu": false,
+  "MenuPath": null,
+  "MenuIcon": null,
+  "ResourceVersion": 1,
+  "__references": [],
+  "__version": 1
+}

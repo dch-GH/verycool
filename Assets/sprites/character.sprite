@@ -1,0 +1,313 @@
+{
+  "Animations": [
+    {
+      "FrameRate": 15,
+      "Origin": "0.5,0.8541667",
+      "Name": "animation_01",
+      "Frames": [
+        {
+          "FilePath": "mystic_woods_free_v0.2/sprites/characters/player.png",
+          "Events": [],
+          "SpriteSheetRect": {
+            "Size": "48,48"
+          }
+        },
+        {
+          "FilePath": "mystic_woods_free_v0.2/sprites/characters/player.png",
+          "Events": [],
+          "SpriteSheetRect": {
+            "Position": "48,0",
+            "Size": "48,48"
+          }
+        },
+        {
+          "FilePath": "mystic_woods_free_v0.2/sprites/characters/player.png",
+          "Events": [],
+          "SpriteSheetRect": {
+            "Position": "96,0",
+            "Size": "48,48"
+          }
+        },
+        {
+          "FilePath": "mystic_woods_free_v0.2/sprites/characters/player.png",
+          "Events": [],
+          "SpriteSheetRect": {
+            "Position": "144,0",
+            "Size": "48,48"
+          }
+        },
+        {
+          "FilePath": "mystic_woods_free_v0.2/sprites/characters/player.png",
+          "Events": [],
+          "SpriteSheetRect": {
+            "Position": "192,0",
+            "Size": "48,48"
+          }
+        },
+        {
+          "FilePath": "mystic_woods_free_v0.2/sprites/characters/player.png",
+          "Events": [],
+          "SpriteSheetRect": {
+            "Position": "240,0",
+            "Size": "48,48"
+          }
+        },
+        {
+          "FilePath": "mystic_woods_free_v0.2/sprites/characters/player.png",
+          "Events": [],
+          "SpriteSheetRect": {
+            "Position": "0,48",
+            "Size": "48,48"
+          }
+        },
+        {
+          "FilePath": "mystic_woods_free_v0.2/sprites/characters/player.png",
+          "Events": [],
+          "SpriteSheetRect": {
+            "Position": "48,48",
+            "Size": "48,48"
+          }
+        },
+        {
+          "FilePath": "mystic_woods_free_v0.2/sprites/characters/player.png",
+          "Events": [],
+          "SpriteSheetRect": {
+            "Position": "96,48",
+            "Size": "48,48"
+          }
+        },
+        {
+          "FilePath": "mystic_woods_free_v0.2/sprites/characters/player.png",
+          "Events": [],
+          "SpriteSheetRect": {
+            "Position": "144,48",
+            "Size": "48,48"
+          }
+        },
+        {
+          "FilePath": "mystic_woods_free_v0.2/sprites/characters/player.png",
+          "Events": [],
+          "SpriteSheetRect": {
+            "Position": "192,48",
+            "Size": "48,48"
+          }
+        },
+        {
+          "FilePath": "mystic_woods_free_v0.2/sprites/characters/player.png",
+          "Events": [],
+          "SpriteSheetRect": {
+            "Position": "240,48",
+            "Size": "48,48"
+          }
+        },
+        {
+          "FilePath": "mystic_woods_free_v0.2/sprites/characters/player.png",
+          "Events": [],
+          "SpriteSheetRect": {
+            "Position": "0,96",
+            "Size": "48,48"
+          }
+        },
+        {
+          "FilePath": "mystic_woods_free_v0.2/sprites/characters/player.png",
+          "Events": [],
+          "SpriteSheetRect": {
+            "Position": "48,96",
+            "Size": "48,48"
+          }
+        },
+        {
+          "FilePath": "mystic_woods_free_v0.2/sprites/characters/player.png",
+          "Events": [],
+          "SpriteSheetRect": {
+            "Position": "96,96",
+            "Size": "48,48"
+          }
+        },
+        {
+          "FilePath": "mystic_woods_free_v0.2/sprites/characters/player.png",
+          "Events": [],
+          "SpriteSheetRect": {
+            "Position": "144,96",
+            "Size": "48,48"
+          }
+        }
+      ],
+      "Attachments": []
+    },
+    {
+      "FrameRate": 8,
+      "Origin": "0.5,0.8541667",
+      "Looping": true,
+      "Name": "idle",
+      "Frames": [
+        {
+          "FilePath": "mystic_woods_free_v0.2/sprites/characters/player.png",
+          "Events": [],
+          "SpriteSheetRect": {
+            "Size": "48,48"
+          }
+        },
+        {
+          "FilePath": "mystic_woods_free_v0.2/sprites/characters/player.png",
+          "Events": [],
+          "SpriteSheetRect": {
+            "Position": "48,0",
+            "Size": "48,48"
+          }
+        },
+        {
+          "FilePath": "mystic_woods_free_v0.2/sprites/characters/player.png",
+          "Events": [],
+          "SpriteSheetRect": {
+            "Position": "96,0",
+            "Size": "48,48"
+          }
+        },
+        {
+          "FilePath": "mystic_woods_free_v0.2/sprites/characters/player.png",
+          "Events": [],
+          "SpriteSheetRect": {
+            "Position": "144,0",
+            "Size": "48,48"
+          }
+        },
+        {
+          "FilePath": "mystic_woods_free_v0.2/sprites/characters/player.png",
+          "Events": [],
+          "SpriteSheetRect": {
+            "Position": "192,0",
+            "Size": "48,48"
+          }
+        },
+        {
+          "FilePath": "mystic_woods_free_v0.2/sprites/characters/player.png",
+          "Events": [],
+          "SpriteSheetRect": {
+            "Position": "240,0",
+            "Size": "48,48"
+          }
+        }
+      ],
+      "Attachments": []
+    },
+    {
+      "FrameRate": 8,
+      "Origin": "0.5,0.8541667",
+      "Looping": true,
+      "Name": "walk",
+      "Frames": [
+        {
+          "FilePath": "mystic_woods_free_v0.2/sprites/characters/player.png",
+          "Events": [],
+          "SpriteSheetRect": {
+            "Position": "0,48",
+            "Size": "48,48"
+          }
+        },
+        {
+          "FilePath": "mystic_woods_free_v0.2/sprites/characters/player.png",
+          "Events": [],
+          "SpriteSheetRect": {
+            "Position": "48,48",
+            "Size": "48,48"
+          }
+        },
+        {
+          "FilePath": "mystic_woods_free_v0.2/sprites/characters/player.png",
+          "Events": [],
+          "SpriteSheetRect": {
+            "Position": "96,48",
+            "Size": "48,48"
+          }
+        },
+        {
+          "FilePath": "mystic_woods_free_v0.2/sprites/characters/player.png",
+          "Events": [],
+          "SpriteSheetRect": {
+            "Position": "144,48",
+            "Size": "48,48"
+          }
+        },
+        {
+          "FilePath": "mystic_woods_free_v0.2/sprites/characters/player.png",
+          "Events": [],
+          "SpriteSheetRect": {
+            "Position": "192,48",
+            "Size": "48,48"
+          }
+        },
+        {
+          "FilePath": "mystic_woods_free_v0.2/sprites/characters/player.png",
+          "Events": [],
+          "SpriteSheetRect": {
+            "Position": "240,48",
+            "Size": "48,48"
+          }
+        }
+      ],
+      "Attachments": []
+    },
+    {
+      "FrameRate": 15,
+      "Origin": "0.5,0.8541667",
+      "Looping": true,
+      "Name": "jump",
+      "Frames": [
+        {
+          "FilePath": "mystic_woods_free_v0.2/sprites/characters/player.png",
+          "Events": [],
+          "SpriteSheetRect": {
+            "Position": "48,48",
+            "Size": "48,48"
+          }
+        }
+      ],
+      "Attachments": []
+    },
+    {
+      "FrameRate": 10,
+      "Origin": "0.5,0.854",
+      "Name": "attack",
+      "Frames": [
+        {
+          "FilePath": "mystic_woods_free_v0.2/sprites/characters/player.png",
+          "Events": [
+            "attack"
+          ],
+          "SpriteSheetRect": {
+            "Position": "0,96",
+            "Size": "48,48"
+          }
+        },
+        {
+          "FilePath": "mystic_woods_free_v0.2/sprites/characters/player.png",
+          "Events": [],
+          "SpriteSheetRect": {
+            "Position": "48,96",
+            "Size": "48,48"
+          }
+        },
+        {
+          "FilePath": "mystic_woods_free_v0.2/sprites/characters/player.png",
+          "Events": [],
+          "SpriteSheetRect": {
+            "Position": "96,96",
+            "Size": "48,48"
+          }
+        },
+        {
+          "FilePath": "mystic_woods_free_v0.2/sprites/characters/player.png",
+          "Events": [],
+          "SpriteSheetRect": {
+            "Position": "144,96",
+            "Size": "48,48"
+          }
+        }
+      ],
+      "Attachments": []
+    }
+  ],
+  "__references": [],
+  "__version": 0
+}
